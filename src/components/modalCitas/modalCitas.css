@@ -1,0 +1,25 @@
+.label-citas {
+    color: white;
+  }
+  .h1LabelCitas {
+    margin-left: 2rem;
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 40px;
+  }
+  .formulario {
+    width: 312px;
+    margin: 0 auto;
+    margin-top: -100px;
+    padding: 3rem 0;
+  }
+  .react-calendario {
+    margin-left: 14%;
+    margin-top: 5px;
+    width: 256px;
+    max-width: 200%;
+    background: white;
+    border: 2px solid purple;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.125em;
+  }

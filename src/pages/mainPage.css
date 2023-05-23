@@ -1,0 +1,154 @@
+.main-container1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* height: 100vh; */
+    /* justify-content: space-between; */
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
+  .cajas0 {
+    margin: 30px;
+    background-color:purple;
+    border-radius: 10%;
+    /* opacity: 75%; */
+    font-size: 15px;
+    box-shadow: rgb(50, 48, 48) 3px 3px 13px 5px;
+    width: 300px;
+    /* flex: 1; */
+    padding: 20px;
+    height: auto;
+  }
+  .cajas1 {
+    margin: 30px;
+    background-color:purple;
+    border-radius: 10%;
+    /* opacity: 75%; */
+    font-size: 15px;
+    box-shadow: rgb(50, 48, 48) 3px 3px 13px 5px;
+    width: 300px;
+    /* flex: 1; */
+    padding: 20px;
+    height: auto;
+  }
+  .main-container2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* height: 100vh; */
+    /* justify-content: space-between; */
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
+  .cajas2 {
+    margin: 30px;
+    background-color:purple;
+    border-radius: 10%;
+    /* opacity: 75%; */
+    font-size: 15px;
+    box-shadow: rgb(50, 48, 48) 3px 3px 13px 5px;
+    width: 300px;
+    /* flex: 1; */
+    padding: 20px;
+    height: 495px;
+  }
+  .main-text {
+    display: table-cell;
+    text-align: center;
+  }
+
+  @media (max-width: 767px) and (min-width: 360px) {
+    .cajas1 {
+      height: auto;
+    }
+    .cajas2 {
+      height: auto;
+    }
+  }
+  h1.main-title {
+    color:white;
+    opacity: 100%;
+    font-size: 55px;
+    text-align: center;
+    margin-top: 40px;
+  }
+  h1.main-text1 {
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    margin-top: -5px;
+  }
+  h1.main-text2 {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+  }
+  h2.texto {
+    text-align: center;
+    font-size: 22px;
+    color:white;
+  }
+  p.main-text {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+  }
+  .iconoWhatsapp{
+    width: 45px;
+    /* margin: 12px;
+    margin-top: 17px;
+    margin-left: 3rem; */
+    transform: translate3d(59px, 16px, 10px);
+  }
+  .iconoContacto {
+    width: 45px;
+    margin-left: 20px;
+  }
+  a.main-text-number {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    display: flex;
+    margin-left: 122px;
+    margin-top: -42px;
+    margin-bottom: 28px;
+  }
+  p.main-text-mapa {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+  }
+  li {
+    color: white;
+    margin-left: 20px;
+  }
+
+
+ 
+  .footer-things {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    flex-wrap: wrap;
+    flex-direction: row;
+    height: 90px;
+    background-color: white;
+  }
+  .caja1-footer {
+    justify-content: center;
+    width: 50%;
+  }
+  .caja2-footer {
+    justify-content: center;
+    width: 50%;
+  }
+  .p-footer {
+    font-size: 25px;
+  }
+  .footer-img {
+    width: 350px;
+   
+   
+  }

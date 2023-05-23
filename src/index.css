@@ -1,0 +1,162 @@
+body {
+  margin: 5;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  background-image: url(./components//icono-image//cartelLGTBI.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Móvil pequeño: 360 x 640 px.
+   Móvil medio: 375 x 667 px.
+   Smartphone grande: 720 x 1280 px.
+   Ordenador portátil medio: 1366 x 768 px.
+   Ordenador de escritorio medio: 1440 x 900 px.
+   PC de escritorio grande: 1920 x 1080 px. */
+
+/*------------Código anterior------------------------*/
+
+/* @media (min-width: 800px) and (max-width: 1354px) {
+  #main-text #tocho-card {
+    text-align: center;
+    width: 80%;
+    padding: 20px;
+  }
+}
+@media (min-width: 1025px) {
+  #main-text #tocho-card {
+    text-align: center;
+    width: 60%;
+    padding: 0px;
+  }
+} */
+
+/* ----------------------Código anterior ------------------------------------------*/
+/* @media (min-width: 767px) and (max-width: 1024px){
+  .cajas{
+    width: 70%;
+  
+  }
+} */
+/* .main-container {
+  height: 220px;
+  margin-top: -1rem;
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
+/* h3 {
+  font-size: 20px;
+  font-size: 25px;
+  text-decoration: underline;
+  color: white;
+  margin: 0;
+} */
+
+/* .pelabel-principal {
+  font-weight: bold;
+  font-size: 25px;
+  color: rgb(99 12 117);
+  margin-top: 8rem;
+  text-align: center;
+  margin-left: -43rem;
+  margin-bottom: -50px;
+} */
+/* .pelabel-principal2 {
+  font-weight: bold;
+  font-size: 50px;
+  color: rgb(99 12 117);
+  text-align: center;
+  margin-left: -43rem;
+} */
+/* .pelabel-principal3 {
+  font-size: 25px;
+  text-decoration: underline;
+  color: rgb(99 12 117);
+  text-align: center;
+  margin: 0;
+} */
+/* .pSM {
+  font-size: 20px;
+  color: white;
+  margin-left: 1%;
+  margin-top: -50px;
+  text-decoration: underline;
+} */
+/* .pin{
+  width: 27%;
+  text-align: center;
+  background-color:#dd861c;
+  border-radius: 10px;
+  box-shadow: rgb(50, 48, 48) 3px 3px 13px 5px;
+  margin-left: 9rem;
+} */
+/* .pin:hover {
+  transform: scale(1.1);
+} */
+/* .number {
+  font-size: 25px;
+  color: white;
+  margin-top: -50px;
+  margin-left: 4px;
+} */
+/* img.iconoWhatsapp {
+  width: 35px;
+  margin: 12px;
+  margin-top: 17px;
+  margin-left: -12rem;
+} */
+/* .card-container {
+  text-align: center;
+  width: 20%;
+  background-color:#dd861c;
+  border-radius: 10px;
+  box-shadow: rgb(50, 48, 48) 3px 3px 13px 5px;
+  margin-left: 12rem;
+  margin-top: 6rem;
+} */
+/* .card-container:hover {
+  transform: scale(1.1);
+} */
+/* .iconoContacto{
+  width: 35px;
+  margin-top: 65px;
+  margin: 10px;
+} */
+/* .iconoContacto:hover {
+  transform: scale(1.5);
+} */
+/* .pPrincipal1 {
+  color: white;
+  text-decoration: underline;
+  margin: 0px;
+} */
+/* .pPrincipal2 {
+  margin-top: -40px;
+  color: white;
+} */
+/* .a-Mapa {
+  text-decoration: none;
+  color: white;
+} */
+/* .a-Mapa:hover{
+  color: blue;
+} */
+/* .pe-mapa {
+  color: blue;
+  margin: -10px;
+  text-decoration: underline;
+} */
+/* .lorem {
+  color: white;
+  text-align: center;
+  font-size: 20px;
+} */
+/* .texto {
+  width: 50%;
+  margin-left: 38.5rem;
+  margin-top: -37rem;
+  border: 5px solid rgb(74, 156, 49);
+  border-style: inset;
+  box-shadow: rgb(50, 48, 48) 3px 3px 13px 5px;
+} */
